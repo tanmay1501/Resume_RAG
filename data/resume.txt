@@ -1,0 +1,49 @@
+Tanmay Itkelwar
+Dallas, TX |(214)-836-3909 | tanmayitkelwar1501@gmail.com
+ linkedin.com/in/tanmayitkelwar/ | github.com/tanmay1501
+
+TECHNICAL SKILLS
+Programming Languages:	C#, Java, Python, C++, JavaScript, JSON
+Technologies:		AWS, CI/CD, REST API, Terraform, Kubernetes, Linux, Elastic Search
+Tools:		.Net Framework, Angular, Snowflake, Docker, Apache suite, Azure DevOps, Git
+Databases:		PostgreSQL, MySQL, Redshift, MongoDB, DynamoDB
+
+CERTIFICATIONS
+Applied Machine Learning Certificate (Aug 2024), AWS Certified Cloud - Practitioner (Jun 2024)
+
+WORK EXPERIENCE
+The University of Texas at Dallas, Backend Web Developer – Student Assistant                                              May 2024 - Present
+•	Automated data backup and code review using shell scripting on Ubuntu, reducing manual workload by 30%.
+•	Improved the MySQL database for the university to increase data retrieval by 20%.
+•	Created Docker images for testing environments on Docker containers, reducing setup time by 35%.
+
+Accenture, Full-Stack Software Engineer                                                                                                                 Dec 2020 - Jul 2023
+•	Spearheaded the development of a serverless web application employing Angular, .NET framework, and AWS services for Accenture Spain's 11 locations, improving contract tracking of 2000+ employees by 30%.
+•	Enabled a smooth transition from legacy database system to AWS redshift with a 50% increase in query efficiency.
+•	Managed and configured Redshift cluster, AWS S3, IAM access roles, and policies via Terraform.
+•	Enhanced system responsiveness by 30% through the construction of a messaging layer between 8 microservices leveraging the Apache Kafka framework and a Data Access Layer with MySQL and MongoDB.
+
+Accenture, Sofware Engineer - Intern                                          				                    May 2020 - Dec 2020
+•	Implemented CI/CD pipelines using Jenkins, reducing deployment time and accelerating delivery cycles by 25%.
+•	Automated email services using Rest-API in a .NET application within the Agile framework for 7000+ customers.
+•	Deployed Docker applications within Kubernetes clusters(Amazon EKS), achieving a 40% reduction in downtime.
+•	Performed daily PostgreSQL database queries, handling 6000+ ServiceNow tickets. 
+ACADEMIC PROJECTS 
+Data Eclipse AI:                                                                                                                                  github.com/tanmay1501/DataEclipseAI
+•	Developed a no-code data engineering tool using Streamlit to reduce data processing time by 40%.
+•	Replaced Python Notebooks with an interactive UI to perform data ETL process with a few clicks of some buttons.
+
+Product Reviews Data Pipeline using Snowflake:                          github.com/tanmay1501/Amazon-Reviews-Data-Pipeline
+•	Built an End-to-end streaming data pipeline for Amazon reviews to show the product's real-time performance.
+•	Automated ingestion pipeline using AWS Lambda and S3 to collect raw JSON data of 1 million+ daily records.
+•	Utilized Snowflake as a data warehouse to enhance query performance by 40% for real-time aggregation.
+
+Guard-AI:                                                                                                                                                                                      github.com/tanmay1501/GaurdAI
+•	Created an object detection service using the Yolo DL model to detect objects in a video with an F1Score of 86%.
+•	Provided real-time AI responses for home safety and security on the objects detected via Open AI API.
+•	Increased the overall accuracy by 17% using transfer learning and unfreezing layers on deep learning models.
+
+EDUCATION
+Master of Science in Management Information Systems, The University of Texas at Dallas                  Aug 2023 - May 2025
+Honors: UT Dallas Jungchan Hsieh Scholarship                                                                                                                     GPA - 3.92
+Bachelor of Engineering in Information Technology, Nagpur University                                                       Aug 2016 - Oct 2020 President: IT Student Leadership Council                                                                                                                              GPA - 3.14
